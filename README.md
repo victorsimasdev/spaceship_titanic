@@ -81,3 +81,4 @@ The final model achieved an accuracy of **78%**. It provides a strong basis for 
 - Deep Learning:
   - Exploring neural networks to futher enhance the predictive power.
 ## License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
