@@ -12,11 +12,6 @@ The goal of this project is to build a predictive model that accurately identifi
 
 ## Dataset
 The dataset consists of records retrieved from the ship's damaged computer system, containing information on each passenger. Each entry includes various attributes that may help determine if a passenger was transported to an alternate dimension.
-- Percorre os arquivos no local indicado
-  - Verifica se existem pastas para a extensão, caso não, cria a pasta
-  - Move os arquivos com extensões para as pastas correspondentes
-  > O programa não move arquivos .exe para evitar erros com o executável devido à caminho incorreto
-- Caso aconteça algum erro, exibe no terminal
 
 ## Requirements
 - ```Pandas```
